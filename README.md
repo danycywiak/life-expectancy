@@ -14,7 +14,7 @@ Life expectancy varies across countries due to multiple factors such as **GDP, h
 
 ## 📂 Dataset
 The dataset used for training the model comes from **WHO and the United Nations**. It includes various indicators such as GDP per capita, immunization rates, and mortality rates.
-- [Dataset Source (if public)](INSERT-DATASET-LINK)
+- [Dataset Source (if public)](https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated)
 
 ## 🚀 Project Demo
 Try the deployed model here:  
